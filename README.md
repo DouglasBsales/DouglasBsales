@@ -9,10 +9,6 @@
 <strong> Stack: </strong> Currently studying: html, css, javascript, react, next.js, tailwind and bootstrap. <br> <br>
 <strong> Work: </strong> I currently participate in a project based on: react, next.js and tailwind.
 to create a sales system. <br>
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
 <p align="left">
   🦄 Linguagens: Javascript ❤️
 </p>
