@@ -6,7 +6,7 @@
 
 <strong> Age: </strong> 24 years old. <br> <br>
 <strong> Living: </strong> Recife, Pernambuco, Brasil <br> <br>
-<strong> Stack: </strong> Currently studying: html, css, javascript, react, next.js, tailwind and bootstrap. <br> <br>
+<strong> Stack: </strong> Currently studying: html, css, javascript, typescript, react, next.js, tailwind and bootstrap. <br> <br>
 <strong> Work: </strong> I currently participate in a project based on: react, next.js and tailwind.
 to create a sales system. <br>
 <p align="left">
