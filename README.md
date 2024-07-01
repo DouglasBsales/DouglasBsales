@@ -6,7 +6,7 @@
 
 <strong> Age: </strong> 24 years old. <br> <br>
 <strong> Living: </strong> Recife, Pernambuco, Brasil <br> <br>
-<strong> Stack: </strong> Currently studying: html, css, javascript, typescript, react, next.js, tailwind and bootstrap. <br> <br>
+<strong> Stack: </strong> html, css, javascript, typescript, react, react-native, next.js, tailwind and bootstrap. <br> <br>
 <p align="left">
   🦄 Linguagens: Javascript ❤️
 </p>
