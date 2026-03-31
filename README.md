@@ -4,11 +4,11 @@
 <p align="left"> 
             Hi, my name is <strong>Douglas!</strong>
 
-<strong> Age: </strong> 25 years old. <br> <br>
+<strong> Age: </strong> 26 years old. <br> <br>
 <strong> Living: </strong> Recife, Pernambuco, Brasil <br> <br>
-<strong> Stack: </strong> html, css, javascript, typescript, react, react-native, next.js, tailwind and bootstrap. <br> <br>
+<strong> Stack: </strong> Javascript, Typescript, React, React-native, Kotlin, Next.js, Tailwind, Prisma, SQL, Banco de dados <br> <br>
 <p align="left">
-  🦄 Linguagens: Javascript ❤️
+  🦄 Linguagens: Javascript and Kotlin
 </p>
 
 <p align="left">
